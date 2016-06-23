@@ -1,4 +1,0 @@
-# desarrollo
-Desarrollo de Software
-
-
